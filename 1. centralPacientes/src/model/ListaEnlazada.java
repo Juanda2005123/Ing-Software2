@@ -1,8 +1,6 @@
 package model;
 
-import java.util.Date;
-
-public class ListaEnlazada {
+public class ListaEnlazada implements List {
     Nodo cabeza;
     int size;
     private static boolean flagAddPatient = false;
