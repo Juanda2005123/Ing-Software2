@@ -191,6 +191,7 @@ public class MainPatientCentral {
     }
     public void prueba(){
         System.out.println(central.prueba());
+        System.out.println("SE ARREGLO EL ERROR");
     }
 
 
